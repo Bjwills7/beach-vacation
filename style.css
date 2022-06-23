@@ -135,6 +135,25 @@ header a {
     border: #006994 solid 2px;
 }
 
+/* Row two end */
+
+/* Row three start */
+
+.row-three {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    padding: 50px;
+    background-color: rgba(3, 80, 80, .2);
+    color: rgb(2, 49, 49);
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 2;
+    box-shadow: 0 0 30px inset;
+}
+
+/* Row three end */
+
 /* Footer start */
 
 footer {
