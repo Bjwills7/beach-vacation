@@ -164,7 +164,7 @@ header a {
 
 .sign-up-box {
     display: flex;
-    background-color: rgba(0, 94, 184, .8);
+    background-color: rgba(0, 94, 184, .4);
     color: rgb(2, 49, 49);
     box-shadow: 0 0 5px;
     border-radius: 10px;
