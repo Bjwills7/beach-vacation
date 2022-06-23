@@ -9,7 +9,8 @@ body {
     flex-direction: column;
     height: 200vh;
     background-image: url(images/sand.jpg);
-    background-size: contain;
+    background-size: cover;
+    background-attachment: fixed;
     font-family: 'Nuosu SIL', sans-serif;
 }
 
@@ -95,6 +96,12 @@ header a {
     height: 300px;
     width: auto;
 }
+
+/* Row one end */
+
+/* Row two start */
+
+
 
 /* Footer start */
 
