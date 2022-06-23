@@ -150,9 +150,45 @@ header a {
     font-size: 24px;
     line-height: 2;
     box-shadow: 0 0 30px inset;
+    box-shadow: 0 0 20px
 }
 
 /* Row three end */
+
+/* Row four start */
+
+.row-four {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sign-up-box {
+    display: flex;
+    background-color: rgba(0, 94, 184, .8);
+    color: rgb(2, 49, 49);
+    box-shadow: 0 0 5px;
+    border-radius: 10px;
+    height: 150px;
+    width: 800px;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.sign-up-box-text h3 {
+    font-weight: 900;
+    font-size: 24px;
+}
+
+.sign-up-box-text p {
+    font-weight: 600;
+}
+
+.sign-up-box .sign-up:hover {
+    background-color: rgb(74, 167, 167);
+}
+
+/* Row four end */
 
 /* Footer start */
 
