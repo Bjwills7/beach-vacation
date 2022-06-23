@@ -95,6 +95,7 @@ header a {
     border-radius: 10px;
     height: 300px;
     width: auto;
+    box-shadow: 0 0 10px;
 }
 
 /* Row one end */
@@ -103,7 +104,7 @@ header a {
 
 .row-two {
     background-color: rgba(2, 49, 49, .8);
-    box-shadow: 0 0 20px;
+    box-shadow: 0 0 20px, 0 0 20px inset;
     display: flex;
     flex-direction: column;
     justify-content: space-around;
@@ -208,3 +209,5 @@ footer {
     font-weight: 600;
     box-shadow: 0 0 20px, 0 0 20px inset;
 }
+
+/* Footer end */
