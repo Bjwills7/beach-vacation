@@ -124,15 +124,23 @@ header a {
 .row-two button {
     padding: 0;
     border: none;
-    height: 200px;
+    height: 300px;
     width: 250px;
     margin: 20px;
+    background-color: transparent;
 }
 
 .button-img {
     width: 250px;
     height: 200px;
-    border: #006994 solid 2px;
+    border: #006994 double 5px;
+    border-radius: 20px;
+}
+
+.button-text {
+    padding: 20px;
+    color: #528396;
+    font-size: 18px;
 }
 
 /* Row two end */
